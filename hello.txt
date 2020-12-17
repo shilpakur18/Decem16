@@ -1,3 +1,5 @@
 today is wednesday
 month is december
 year is 2020
+find the one who said 2020 is 
+a good year
